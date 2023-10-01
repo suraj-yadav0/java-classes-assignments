@@ -33,7 +33,7 @@ public class Question2 {
                 end = mid -1;
             }
         }
-        return arr.length;
+        return -1;
     }
 
 }
